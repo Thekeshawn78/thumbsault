@@ -454,9 +454,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#dcddde",
-            "#dcddde",
-            "#dcddde"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
