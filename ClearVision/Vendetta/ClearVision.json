@@ -1,9 +1,8 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
-	"authors": [
+    "name": "thumbsault bg",
+    "description": "lol" 
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "by jevin",
          "id": "466968658997149706"
       }
     ],
@@ -509,7 +508,7 @@
         "RED_430": "#2780E6",
         "RED_460": "#2780E6",
         "GREEN_360": "#689d6a",
-        "WHITE_500": "#dcddde",
+        "WHITE_500":"#000000",
         "YELLOW_300": "#2780E6",
 	"PLUM_20": "#111423",
 	"PLUM_16": "#111533",
